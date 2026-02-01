@@ -1,0 +1,247 @@
+{
+"book_title": "ESMO Handbook of Cancer Prevention",
+"chapters": [
+{
+"chapter": 1,
+"heading": "Cancer epidemiology",
+"subheadings": [
+"Introduction",
+"The burden of cancer worldwide and in Europe",
+"Most frequent cancer types in Europe",
+"Conclusion"
+]
+},
+{
+"chapter": 2,
+"heading": "Types of prevention: basic concepts",
+"subheadings": [
+"Introduction",
+"Types of prevention"
+]
+},
+{
+"chapter": 3,
+"heading": "Methodologies in cancer prevention",
+"subheadings": [
+"Introduction",
+"Cancer risk factors and risk assessment",
+"Endpoints of cancer prevention",
+"Cancer prevention programs and how to evaluate preventive programs",
+"Conclusion"
+]
+},
+{
+"chapter": 4,
+"heading": "Obesity and exercising",
+"subheadings": [
+"Introduction",
+"Cancer showing a definite association with obesity",
+"Cancer showing a modest association with obesity",
+"Cancer showing a negative association with obesity",
+"Pathophysiology of obesity and cancer",
+"Can anything be done about it?",
+"Conclusion"
+]
+},
+{
+"chapter": 5,
+"heading": "Hormones",
+
+"subheadings": [
+"Introduction",
+"Breast cancer",
+"Endometrial cancer",
+"Prostate cancer",
+"Conclusion"
+]
+},
+{
+"chapter": 6,
+"heading": "Environment-related factors",
+"subheadings": [
+"Introduction",
+"Outdoor air pollution",
+"Residential exposure to radon decay products",
+"Second-hand smoke",
+"Other sources of indoor air pollution",
+"Electromagnetic fields",
+"Residential asbestos exposure",
+"Persistent organochlorines",
+"Other pesticides",
+"Inorganic arsenic in drinking water",
+"Drinking water disinfection by-products",
+"Susceptibility to environmental pollutants",
+"Conclusion"
+]
+},
+{
+"chapter": 7,
+"heading": "Viral agents: hepatitis B and hepatocellular carcinoma",
+"subheadings": [
+"Introduction",
+"Pathophysiology of infection and carcinogenesis",
+"Prevention of hepatitis B infection and hepatocellular carcinoma development",
+"Conclusion"
+]
+},
+{
+"chapter": 8,
+"heading": "Viral agents: human papillomavirus",
+"subheadings": [
+"Introduction",
+"Risk factors",
+"Pathophysiology",
+"Epidemiology",
+"Overview of interventions",
+"Conclusion"
+]
+},
+{
+
+"chapter": 9,
+"heading": "Cigarette smoking and smoking cessation",
+"subheadings": [
+"Epidemiology",
+"The basis of smoking-related carcinogenesis",
+"Effectiveness of interventions to reduce the burden of smoking",
+"Approaches for smoking cessation",
+"Conclusion"
+]
+},
+{
+"chapter": 10,
+"heading": "Alcohol",
+"subheadings": [
+"Introduction",
+"Cancer risk",
+"Genetic susceptibility",
+"Alcohol prevention",
+"Conclusion"
+]
+},
+{
+"chapter": 11,
+"heading": "Nutrition",
+"subheadings": [
+"Introduction",
+"Relationship between nutrition and cancer",
+"Nutritional aspects in cancer development",
+"Nutritional recommendations in cancer prevention"
+]
+},
+{
+"chapter": 12,
+"heading": "Work-related risk factors",
+"subheadings": [
+"Introduction",
+"Causes of work-related cancers",
+"Work-related protection measurements",
+"Conclusion"
+]
+},
+{
+"chapter": 13,
+"heading": "Drug-related cancers",
+"subheadings": [
+"Introduction",
+"Carcinogenic risk of prescription drugs",
+"Carcinogenic risk of non-prescription drugs and food supplements",
+"Prevention of cancer development due to carcinogenic drugs",
+"Conclusion"
+
+]
+},
+{
+"chapter": 14,
+"heading": "Radiation",
+"subheadings": [
+"Introduction",
+"Ionizing radiation",
+"Non-ionizing radiation"
+]
+},
+{
+"chapter": 15,
+"heading": "Breast cancer: chemoprevention and screening",
+"subheadings": [
+"Chemoprevention of breast cancer",
+"Mammography screening for breast cancer",
+"Magnetic resonance imaging in breast cancer screening"
+]
+},
+{
+"chapter": 16,
+"heading": "Cervical cancer",
+"subheadings": [
+"Epidemiology",
+"Risk factors",
+"Pathophysiology",
+"Screening in cervical cancer",
+"Prevention, including human papillomavirus vaccination",
+"Conclusion"
+]
+},
+{
+"chapter": 17,
+"heading": "Colorectal cancer",
+"subheadings": [
+"Epidemiology",
+"Colorectal cancer prevention",
+"Colorectal screening",
+"Chemoprevention",
+"Conclusion"
+]
+},
+{
+"chapter": 18,
+"heading": "Prostate cancer prevention",
+"subheadings": [
+"Introduction",
+"Prostate cancer chemoprevention: clinical trials",
+"Conclusion"
+
+]
+},
+{
+"chapter": 19,
+"heading": "Lung cancer screening",
+"subheadings": [
+"Epidemiology",
+"Lung cancer screening",
+"Overdiagnosis",
+"Stage shift and mortality reduction",
+"Current position statements"
+]
+},
+{
+"chapter": 20,
+"heading": "Hereditary cancer syndromes: general principles on the role of prevention and screening",
+"subheadings": [
+"Introduction",
+"Prevention in hereditary cancer"
+]
+},
+{
+
+  "chapter": 21,
+  "heading": "Hereditary cancer syndromes: role of prevention and screening",
+  "subheadings": [
+    "Introduction",
+    "Hereditary breast and ovarian cancer syndrome",
+    "Hereditary colon cancer syndrome: familial adenomatous polyposis and hereditary non-polyposis colorectal cancer",
+    "Conclusion"
+  ]
+},
+{
+"chapter": 22,
+"heading": "Recommendations",
+"subheadings": [
+"Governmental organizations",
+"Scientific organizations",
+"Professional healthcare providers",
+"Public",
+"Conclusion"
+]
+}
+]
+}

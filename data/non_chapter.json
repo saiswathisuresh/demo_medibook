@@ -1,0 +1,44 @@
+{
+  "title": "Accelerated phase chronic myeloid leukemia: Diagnosis and treatment",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "PRETREATMENT EVALUATION",
+      "subheadings": [
+        "Clinical and laboratory",
+        "History",
+        "Physical examination",
+        "Performance status",
+        "Laboratory",
+        "Clinical tests",
+        "BCR-ABL1",
+        "Bone marrow morphology",
+        "Karyotype",
+        "Mutation testing — BCR-ABL1",
+        "Hematopoietic cell transplantation evaluation"
+      ]
+    },
+    {
+      "heading": "DIAGNOSIS OF AP CML",
+      "subheadings": [
+        "World Health Organization",
+        "Other models",
+        "European LeukemiaNet (ELN)",
+        "MDACC (MD Anderson Cancer Center)",
+        "Sokal"
+      ]
+    },
+    {
+      "heading": "MANAGEMENT",
+      "subheadings": [
+        "De novo versus transformed AP",
+        "Treatment of de novo AP CML",
+        "Selection of a TKI",
+        "Outcomes"
+      ]
+    }
+  ]
+}
